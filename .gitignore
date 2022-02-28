@@ -8,6 +8,7 @@ __pycache__/
 
 # Notebook Specific Documents
 Practice.ipynb
+scraping_garbage.py
 
 # Distribution / packaging
 .Python
